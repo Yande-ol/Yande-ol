@@ -1,3 +1,7 @@
+
+![openart-image_qAA-6q23_1758671956862_raw](https://github.com/user-attachments/assets/4ce05c11-eafd-43b6-a6a4-4afc18743a26)
+
+
 # 👋 Hi, I'm Yan Matos  
 
 I am passionate about **technology, programming, and logical challenges**.  
