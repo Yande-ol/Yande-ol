@@ -1,6 +1,4 @@
-
-![openart-image_qAA-6q23_1758671956862_raw](https://github.com/user-attachments/assets/4ce05c11-eafd-43b6-a6a4-4afc18743a26)
-
+<img width="1386" height="627" alt="image" src="https://github.com/user-attachments/assets/894f504e-b924-4e2a-a342-d305ce45c3a2" />
 
 # 👋 Hi, I'm Yan Matos  
 
