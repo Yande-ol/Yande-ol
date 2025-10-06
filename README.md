@@ -9,10 +9,10 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ## 🧑‍💻 A bit about me  
 
-- 🎯 Always looking to learn new things and improve my skills  
-- 🏊 Participated in the **42 Boot Camp (Piscine)**, which gave me a solid foundation and sparked even more interest in programming  
-- 💪 I enjoy training and believe in a balance between mind and body  
-- 🤝 I like sharing knowledge and exchanging ideas with other devs  
+-  Always looking to learn new things and improve my skills  
+-  Participated in the **42 Boot Camp (Piscine)**, which gave me a solid foundation and sparked even more interest in programming 
+-  I enjoy training and believe in a balance between mind and body  
+- I like sharing knowledge and exchanging ideas with other devs  
 
 ---
 
@@ -36,7 +36,6 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ## ⚡ Fun Facts  
 
-- I’m not afraid of making mistakes — every mistake is just another chance to learn  
 - I prefer constant growth over chasing “immediate perfection”  
 - And, you’ll probably find me studying with a coffee nearby ☕  
 
@@ -44,5 +43,5 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ## 📫 How to reach me  
 
-- ✉️ Email: **your.email@example.com**  
-- 🐙 Here on GitHub too — just open an issue or say hi 😉  
+- Email: **yaancarlos8@gmail.com**  
+- Here on GitHub too — just open an issue or say hi 😉  
