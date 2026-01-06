@@ -20,6 +20,7 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -29,9 +30,8 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ## 📂 Highlighted Projects  
 
-- 🏊 **[42 Piscine](https://github.com/YOUR-USERNAME/42-piscine)** → Consolidation of what I learned during the Piscine  
-- 📘 **[Exams Practice](https://github.com/YOUR-USERNAME/Exams_pratce)** → Exercises to practice for 42/1337 exams  
-
+- **[Get_next_line](https://github.com/Yande-ol/Get_next_line)** → is a project that involves coding a function in C capable of reading a text file pointed to by a file descriptor, one line at a time.
+- **[Born2beroot](https://github.com/Yande-ol/Born2beroot)** → The Born2beroot project focuses on fundamental Linux system administration, centered on creating a secure and functional Debian virtual machine (VM).
 ---
 
 ## ⚡ Fun Facts  
