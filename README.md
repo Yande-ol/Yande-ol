@@ -3,7 +3,7 @@
 #  Hi, I'm Yan Matos  
 
 I am passionate about **technology, programming, and logical challenges**.  
-I am currently a **student at 42 Porto**, where I am diving deep into programming, algorithms, and teamwork. 🚀  
+I am currently a **student at 42 Porto**, where I am diving deep into programming, algorithms, and teamwork.  
 
 ---
 
@@ -30,8 +30,9 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ##  Highlighted Projects  
 
-- **[Get_next_line](https://github.com/Yande-ol/Get_next_line)** → is a project that involves coding a function in C capable of reading a text file pointed to by a file descriptor, one line at a time.
-- **[Born2beroot](https://github.com/Yande-ol/Born2beroot)** → The Born2beroot project focuses on fundamental Linux system administration, centered on creating a secure and functional Debian virtual machine (VM).
+- **[a-maze-ing](https://github.com/Yande-ol/a-maze-ing)** → iA-Maze-ing is a Python project that generates random mazes from a configuration file,validates structural constraints, computes a shortest path from entry to exit, and
+exports the result in the hexadecimal format required by the subject.
+- **[Push_swap](https://github.com/Yande-ol/Push_swap)** → A high-efficiency sorting algorithm in C using two stacks. Implements the Turk Algorithm to minimize operations and optimize algorithmic complexity.
 ---
 
 ##  Fun Facts  
