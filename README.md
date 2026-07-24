@@ -30,7 +30,7 @@ I am currently a **student at 42 Porto**, where I am diving deep into programmin
 
 ##  Highlighted Projects  
 
-- **[a-maze-ing](https://github.com/Yande-ol/a-maze-ing)** → iA-Maze-ing is a Python project that generates random mazes from a configuration file,validates structural constraints, computes a shortest path from entry to exit, and
+- **[a-maze-ing](https://github.com/Yande-ol/a-maze-ing)** → A-Maze-ing is a Python project that generates random mazes from a configuration file,validates structural constraints, computes a shortest path from entry to exit, and
 exports the result in the hexadecimal format required by the subject.
 - **[Push_swap](https://github.com/Yande-ol/Push_swap)** → A high-efficiency sorting algorithm in C using two stacks. Implements the Turk Algorithm to minimize operations and optimize algorithmic complexity.
 ---
